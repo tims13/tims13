@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tims13
 - 👀 I obtained my bachelor degree in SUN YAT-SEN UNIVERSITY and master degree in HKUST
-- 🌱 I’m currently learning something about NLP...
-- 💞️ Besides, I am also interested in backend development
+- 🌱 Now, I am a backend engineer in Wechat, Tencent.
+- 💞️ Besides, I am also interested in ML/DL/NLP.
 - 📫 You can reach me by email: hsuah@connect.ust.hk
 
 <!---
