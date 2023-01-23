@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @tims13
 - 👀 I obtained my bachelor degree in SUN YAT-SEN UNIVERSITY and master degree in HKUST
+- WXG, Tencent => Tiktok, Bytedance 
 - 📫 You can reach me by email: hsuah@connect.ust.hk
 
 <!---
